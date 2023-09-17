@@ -1,0 +1,1 @@
+python3 pyaudio_stream_vad_predict.py model/16k_stream_vad.onnx
